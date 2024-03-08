@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BalanceChecker/BalanceChecker.iml" filepath="$PROJECT_DIR$/BalanceChecker/BalanceChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeetingTimeFinder/MeetingTimeFinder.iml" filepath="$PROJECT_DIR$/MeetingTimeFinder/MeetingTimeFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tq-challenges.iml" filepath="$PROJECT_DIR$/.idea/tq-challenges.iml" />
     </modules>
   </component>
